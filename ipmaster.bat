@@ -85,6 +85,6 @@ if %option% == 5 (
 	goto banner )
 if %option% == 6 (
 	cd desktop
-	start VEASE.bat
+	start ipmaster.bat
 	exit )
 	
